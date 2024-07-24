@@ -16,8 +16,7 @@ Accessibility and Usability: Prioritizing accessibility, I've ensured the page m
 
 Technological Stack: Utilizing modern web development practices, this project incorporates semantic HTML for structure, CSS Grid and Flexbox for layout flexibility, and JavaScript for interactivity. The use of external APIs (mocked in this case) demonstrates my ability to integrate real-time data sources seamlessly.
 
-[Screenshot 2024-07-16 140425](https://github.com/user-attachments/assets/f1aa9fa7-1851-431b-9615-4c7b1c5fc801)
-![Screenshot 2024-07-16 140449](https://github.com/user-attachments/assets/593bb92b-4574-4c2a-a293-87a487a09f40)
-![Screenshot 2024-07-22 220000](https://github.com/user-attachments/assets/4b16c83f-e407-4211-8e54-1910708d55f1)
+
+#HERE ARE IMAGES OF THE PAGE
 ![Screenshot 2024-07-22 220410](https://github.com/user-attachments/assets/949bbd30-94db-4887-8c3a-f55491cb7b8f)
 ![Screenshot 2024-07-22 220451](https://github.com/user-attachments/assets/67b48165-6ec7-4a02-a30b-4c4771d0c160)
